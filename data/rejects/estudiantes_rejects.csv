@@ -1,0 +1,21 @@
+id_estudiante,nombre,edad,correo,motivo_rechazo
+E1018,Sofía Flores,0,adriana.hernandez37@empresa.com,edad_invalida
+E1027,Andrea Rivas,0,paola.vasquez16@correo.sv,edad_invalida
+E1040,Elena Flores,0,valeria.martinez27@correo.sv,edad_invalida
+E1050,Ricardo Martínez,0,carlos.romero18@correo.sv,edad_invalida
+E1064,Diego Mendoza,0,diego.flores10@outlook.com,edad_invalida
+E1073,Daniela Cruz,0,daniela.santos62@correo.sv,edad_invalida
+E1076,Adriana Gómez,0,mario.cruz32@correo.sv,edad_invalida
+E1077,Adriana Santos,0,jorge.mejia86@correo.sv,edad_invalida
+E1088,Daniela Flores,0,marta.perez48@correo.sv,edad_invalida
+E1098,Ricardo Pérez,0,kevin.santos17@empresa.com,edad_invalida
+E1108,Valeria Flores,0,daniela.mejia80@outlook.com,edad_invalida
+E1113,Fernando Reyes,0,raul.flores34@gmail.com,edad_invalida
+E1116,Carlos Morales,0,kevin.mejia61@empresa.com,edad_invalida
+E1119,Jorge Vásquez,0,andrea.castro81@outlook.com,edad_invalida
+E1123,Mario Martínez,0,daniela.perez37@correo.sv,edad_invalida
+E1139,Luis Rivas,0,maria.rivas66@gmail.com,edad_invalida
+E1150,Raúl Santos,0,andres.castro54@correo.sv,edad_invalida
+E1163,Sofía Flores,0,patricia.gomez57@gmail.com,edad_invalida
+E1173,Patricia Torres,0,pedro.martinez38@empresa.com,edad_invalida
+E1176,Diego Gómez,0,jose.torres11@correo.sv,edad_invalida
